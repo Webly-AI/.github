@@ -1,9 +1,8 @@
 <p align="center">
   <a href="https://webly.ai?utm_source=github&utm_medium=org_readme&utm_campaign=banner">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./logo-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="./logo-light.svg">
-      <img src="./logo-light.svg" alt="Webly" height="80">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Webly-AI/webly-plugin/main/assets/webly-mark-dark.gif">
+      <img src="https://raw.githubusercontent.com/Webly-AI/webly-plugin/main/assets/webly-mark-light.gif" width="600" alt="The Webly mark building itself from pixels">
     </picture>
   </a>
 </p>
